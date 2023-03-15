@@ -1,0 +1,2 @@
+# ReciepePracticeAPI
+Django Practice
